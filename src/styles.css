@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.History__list {
+}
+
+.History__list__item {
+  display: flex;
+  border: 1px solid gray;
+  margin-bottom: 5px;
+}
+
+.History__list__item__row {
+  border-right: 1px solid gray;
+  min-width: 60px;
+  padding: 20px;
+}
