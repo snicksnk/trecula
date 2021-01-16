@@ -1,0 +1,14 @@
+.History {
+  display: flex;
+  justify-content: center;
+}
+
+
+.History__List {
+  
+}
+
+.History__List__Item {
+  
+  min-width: 800px;
+}

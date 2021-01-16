@@ -6,7 +6,7 @@ import {
   createHistoryLoadAction
 } from "./actions";
 import { getTracking, getHistory } from "./reducers";
-import History from "./History";
+import History from "./components/History";
 import Tracking from "./Tracking";
 
 import "./styles.css";
